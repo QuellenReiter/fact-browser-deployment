@@ -78819,7 +78819,7 @@ $0(){this.b.r=A.a(this.a.ch,"languageController").a.a},
 $S:0}
 A.jN.prototype={
 aiv(){var s,r,q,p,o=this
-if(A.a(o.a,"statementText").length!==0)if(A.a(o.cx,"statementAuthor").length!==0)if(A.a(o.Q,"statementCategory").length!==0)if(A.a(o.x,"statementCorrectness").length!==0)if(A.a(o.r,"statementLanguage").length!==0)if(A.a(o.y,"statementLink").length!==0)if(A.a(o.cy,"statementMedia").length!==0)if(A.a(o.f,"statementMediatype").length!==0)s=A.a(o.b,"statementPictureURL").length===0&&o.dx==null
+if(A.a(o.a,"statementText").length!==0)if(A.a(o.cx,"statementAuthor").length!==0)if(A.a(o.Q,"statementCategory").length!==0)if(A.a(o.x,"statementCorrectness").length!==0)if(A.a(o.r,"statementLanguage").length!==0)if(A.a(o.y,"statementLink").length!==0)if(A.a(o.cy,"statementMedia").length!==0)if(A.a(o.f,"statementMediatype").length!==0)s=A.a(o.b,"statementPictureURL")==="emptyButNotEmpty"&&o.dx==null
 else s=!0
 else s=!0
 else s=!0
@@ -78917,7 +78917,7 @@ s.push(A.a_i())
 r.db=new A.Iy(s)
 r.cy=r.y=r.r=""
 r.f=B.c.gM($.avF)
-r.b="test"
+r.b="emptyButNotEmpty"
 r.ch=""
 r.z=!1
 this.c=r
