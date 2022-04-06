@@ -14,9 +14,9 @@ const RESOURCES = {
 "splash/img/light-1x.png": "fc751f9688e1ecac236a13e9301dcde8",
 "splash/splash.js": "c6a271349a0cd249bdb6d3c4d12f5dcf",
 "splash/style.css": "49e9ddff142a166f024431cb4f82d384",
-"index.html": "e47d163a56f3254bfff935658f6254d8",
-"/": "e47d163a56f3254bfff935658f6254d8",
-"main.dart.js": "5c6df8c8d1e6bdc565d18f55a1771b0c",
+"index.html": "cbbf313adab4843bd5aaf8c2ca0e390a",
+"/": "cbbf313adab4843bd5aaf8c2ca0e390a",
+"main.dart.js": "3135fbff9fe88b700ec7ed3ab657baf2",
 "favicon.png": "43e819f873a04fc101598226ce3cd2ae",
 "icons/Icon-192.png": "beb3e4dd41f6f74a8695bcdbd666cfd1",
 "icons/Icon-512.png": "8395a284ddd41c9708b44f7dcd728438",
@@ -29,7 +29,11 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/assets/logo-pink.png": "d89d6a1cb02a856881da1d8c079f3c7b",
 "assets/assets/fonts/Bangers-Regular.ttf": "46da33b023cf92f2b65beebcb999e882",
-"assets/assets/fonts/Oswald-VariableFont_wght.ttf": "a868237985c6283cd8f3d65a842ea03d"
+"assets/assets/fonts/Oswald-VariableFont_wght.ttf": "a868237985c6283cd8f3d65a842ea03d",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
 };
 
 // The application shell files that are downloaded before a service worker can
